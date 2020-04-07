@@ -28,3 +28,7 @@ border: 5px solid red;
 .w {
   font-weight: bold;
   /* текст */
+p {
+  text-align: right;
+  font-style: italic; 
+}
