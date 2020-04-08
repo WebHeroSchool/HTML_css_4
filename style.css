@@ -1,0 +1,9 @@
+.h {
+  text-shadow: 2pt 1pt yellow;
+  text-align: center;
+  /* для заголовков */
+}
+p {
+  text-align: right;
+  font-style: italic; 
+}
