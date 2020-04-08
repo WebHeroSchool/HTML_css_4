@@ -1,33 +1,8 @@
-.bt {
-  background: lightgrey;
-  color: black;
-  border: 2px solid red;
-  /* для кнопки*/
-}
-.btt {
-  background: lightblue;
-  color: black;
-  /* для кнопки*/
-}
 .h {
   text-shadow: 2pt 1pt yellow;
   text-align: center;
   /* для заголовков */
 }
-.ff {
-font-family: "Monotype Corsiva";
-/* для подзаголовков */
-}
-.fff {
-font-family: "Monotype Corsiva";
-/* для подзаголовков */
-}
-.b {
-border: 5px solid red;
-}
-.w {
-  font-weight: bold;
-  /* текст */
 p {
   text-align: right;
   font-style: italic; 
